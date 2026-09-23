@@ -4,7 +4,7 @@ and self-hosting hands-on.
 
 This is my home network and server lab built to self-host my own services, teach myself networking from the ground up, and get comfortable with the same tools used in real life IT and tech jobs 
  Network Diagram
-<img width="2040" height="1206" alt="network-diagram_2" src="https://github.com/user-attachments/assets/39c14ec4-4b99-4d54-b7f1-601d77636f95" />
+<img width="1000" height="590" alt="network-diagram_2" src="https://github.com/user-attachments/assets/39c14ec4-4b99-4d54-b7f1-601d77636f95" />
 
 
 

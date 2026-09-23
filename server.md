@@ -6,7 +6,7 @@ recipes, files, virtual machines, and more.
 It was personally built by me and upgraded throughout 2025–2026. Current 
 parts are listed below.
 
-<img width="1000" height="1000" alt="20260922_235524" src="https://github.com/user-attachments/assets/9fa4c1e2-63bd-468a-900e-d320d0dc1c77" />
+<img width="500" height="500" alt="20260922_235524" src="https://github.com/user-attachments/assets/9fa4c1e2-63bd-468a-900e-d320d0dc1c77" />
 
 
  Parts List
@@ -27,4 +27,4 @@ parts are listed below.
 - Samsung 970 EVO Plus 500GB M.2 SSD — internal storage
 - 1TB External HDD — external/backup
 
-<img width="3000" height="4000" alt="20260922_235810" src="https://github.com/user-attachments/assets/c25396da-21c2-4ab3-a572-87bb4fcba8e3" />
+<img width="600" height="800" alt="20260922_235810" src="https://github.com/user-attachments/assets/c25396da-21c2-4ab3-a572-87bb4fcba8e3" />

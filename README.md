@@ -2,9 +2,7 @@
 My home network and server lab built to learn enterprise networking 
 and self-hosting hands-on.
 
-Overview
 This is my home network and server lab built to self-host my own services, teach myself networking from the ground up, and get comfortable with the same tools used in real life IT and tech jobs 
-
  Network Diagram
 <img width="2000" height="1255" alt="image" src="https://github.com/user-attachments/assets/41e59a4e-9d4c-41d9-a2f9-f72d96990914" />
 

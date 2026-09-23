@@ -4,7 +4,7 @@ My personal server, where I store and host everything — photos, movies,
 recipes, files, virtual machines, and more.
 
 It was personally built by me and upgraded throughout 2025–2026. Current 
-parts are listed below.
+parts and photos are listed below.
 
 <img width="500" height="600" alt="20260922_235524" src="https://github.com/user-attachments/assets/9fa4c1e2-63bd-468a-900e-d320d0dc1c77" />
 

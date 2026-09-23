@@ -5,9 +5,9 @@ recipes, files, virtual machines, and more.
 
 It was personally built by me and upgraded throughout 2025–2026. Current 
 parts are listed below.
+<img width="1865" height="949" alt="image" src="https://github.com/user-attachments/assets/811c658d-577c-4000-a8b4-646cf64ccd4e" />
 
  Parts List
-
 - Case: NZXT H510 Compact ATX Mid-Tower, Tempered Glass, Matte Black
 - CPU: AMD Ryzen 5 3600 (3rd Gen, 6-Core / 12-Thread, 3.6 GHz)
 - RAM: PNY XLR8 Gaming 32GB (4x8GB) 3200MHz DDR4

@@ -5,7 +5,9 @@ recipes, files, virtual machines, and more.
 
 It was personally built by me and upgraded throughout 2025–2026. Current 
 parts are listed below.
-<img width="1865" height="949" alt="image" src="https://github.com/user-attachments/assets/811c658d-577c-4000-a8b4-646cf64ccd4e" />
+
+<img width="3000" height="4000" alt="20260922_235524" src="https://github.com/user-attachments/assets/9fa4c1e2-63bd-468a-900e-d320d0dc1c77" />
+
 
  Parts List
 - Case: NZXT H510 Compact ATX Mid-Tower, Tempered Glass, Matte Black
@@ -24,3 +26,5 @@ parts are listed below.
 - Western Digital PC SN730 512GB M.2 SSD — internal storage
 - Samsung 970 EVO Plus 500GB M.2 SSD — internal storage
 - 1TB External HDD — external/backup
+
+<img width="3000" height="4000" alt="20260922_235810" src="https://github.com/user-attachments/assets/c25396da-21c2-4ab3-a572-87bb4fcba8e3" />

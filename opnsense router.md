@@ -2,7 +2,7 @@ OPNsense Router
 
 My home router runs OPNsense open-source firewall I set up myself instead of using a regular store-bought router. It controls my whole network firewall, Wi-Fi networks, and a persoanlly built VPN.
 
-<img width="300" height="500" alt="20260923_001652" src="https://github.com/user-attachments/assets/7414ea3c-4dd9-4e34-bfc3-ab37a9ba05f9" />
+<img width="300" height="400" alt="20260923_001652" src="https://github.com/user-attachments/assets/7414ea3c-4dd9-4e34-bfc3-ab37a9ba05f9" />
 
 
 

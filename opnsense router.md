@@ -31,6 +31,6 @@ I made a second Wi-Fi network that automatically sends everything through a VPN.
 - Wrote firewall rules that force all VLAN 20 traffic through the VPN
 - Added a killswitch: if the VPN drops, that network loses internet instead of leaking out unprotected
 
-<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/8a9ea254-9fcb-41bf-8e47-5d41636589ad" />
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/8a9ea254-9fcb-41bf-8e47-5d41636589ad" />
 
-<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/5f6d0974-4ec0-41f0-8fe5-73e0d4959824" />
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/5f6d0974-4ec0-41f0-8fe5-73e0d4959824" />

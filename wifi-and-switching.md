@@ -22,7 +22,7 @@ My Wi-Fi comes from a Ubiquiti UniFi AP AC HD. I manage it with the UniFi Networ
 - 40 MHz channel width on 5 GHz for a steadier connection
 - 100% Wi-Fi connection success rate in the UniFi dashboard (connecting, logging in, getting an address, and DNS)
 
-[add your UniFi dashboard screenshot here]
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/f6485b74-fb50-472f-985f-9ea586f80764" />
 
 ## What I Learned
 

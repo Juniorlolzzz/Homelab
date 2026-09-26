@@ -2,7 +2,8 @@
 
 Everything here runs on my [server](server.md) using TrueNAS SCALE. Instead of paying for cloud services, I host my own versions and manage them myself.
 
-[add a screenshot of your TrueNAS Apps page here]
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/f09d5a15-7ea6-4da1-8d5a-8c6580dbb929" />
+
 
 ## Apps I Run
 
@@ -23,7 +24,8 @@ I set up Windows (SMB) shares so every computer in the house can reach the serve
 - ISO: installer images for building virtual machines
 - external_drive: the external backup drive
 
-[add a screenshot of your Shares page here]
+<img width="886" height="320" alt="image" src="https://github.com/user-attachments/assets/384b9675-fce8-4bb3-9933-5e0ebf9ae5f6" />
+
 
 ## Storage Pools
 

@@ -9,7 +9,8 @@ This is an enterprise switch, the kind used in offices and schools. I configured
 - Set up the port going to the access point to carry both Wi-Fi networks
 - Set up access ports for wired devices
 
-<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/0a6486f3-bd68-411d-a43f-aecf62fe1a06" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/76ebb489-6f54-4482-a92c-594eaf8c3f36" />
+
 
 
 ## Ubiquiti Access Point

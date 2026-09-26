@@ -20,6 +20,7 @@ This is my home network and server lab. I built it to host my own services, teac
 - Built and hosted my own website to advertise my Minecraft servers
 - Run virtual machines on my server, including Windows 10, Ubuntu, and Kali Linux
 - Run a local AI chatbot on my own hardware with Ollama and Open WebUI
+- Set up Tailscale so I can reach my server from anywhere without opening any ports
 
 ## Project Pages
 

@@ -26,10 +26,3 @@ Things that broke in my homelab and how I fixed them.
 
 **What I learned:** A VPN can still leak through IPv6 or DNS even when your IP looks right, so you have to test for each one.
 
-## [Add your own]
-
-**What happened:**
-
-**How I fixed it:**
-
-**What I learned:**

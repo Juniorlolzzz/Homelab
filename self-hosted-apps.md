@@ -2,7 +2,7 @@
 
 Everything here runs on my [server](server.md) using TrueNAS SCALE. Instead of paying for cloud services, I host my own versions and manage them myself.
 
-<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/f09d5a15-7ea6-4da1-8d5a-8c6580dbb929" />
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/f09d5a15-7ea6-4da1-8d5a-8c6580dbb929" />
 
 
 ## Apps I Run
